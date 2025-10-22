@@ -132,6 +132,31 @@ You can extend this system by adding:
 - Statistics and reporting features
 - Export functionality
 
+## Sample Output:
+```
+=== MAIN MENU ===
+1. Add New Student
+2. View All Students
+3. View Student by ID
+4. Update Student
+5. Delete Student
+6. Add Sample Data
+7. Exit
+Choose an option (1-7): 2
+
+=== ALL STUDENTS ===
+Total Students: 3
+------------------------------------------------------------
+1. ID: S001   | Name: John Doe        | Age: 20  | Marks: 85.50  | 
+2. ID: S002   | Name: Jane Smith      | Age: 22  | Marks: 92.00  | 
+3. ID: S003   | Name: Mike Johnson    | Age: 21  | Marks: 78.50  | 
+```
+
+This system provides a complete CRUD implementation using ArrayList and demonstrates real-world data structure usage with proper object-oriented design principles.
+
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for any enhancements.
+
+
+
