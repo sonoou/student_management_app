@@ -38,7 +38,7 @@ StudentManagementSystem/
 
 #### Using VS Code
 1. Create a new Java project
-2. Copy the three Java files into your `src` folder
+2. Copy the three Java files into your folder
 3. Run `StudentManagementApp.java`
 
 #### Using IntelliJ IDEA CE
