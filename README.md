@@ -20,10 +20,10 @@ This application provides a complete solution for managing student information t
 
 ```
 StudentManagementSystem/
-├── src/
-│   ├── Student.java          # Student entity class
-│   ├── StudentManager.java   # Business logic and CRUD operations
-│   └── StudentManagementApp.java # Main application and UI
+│
+├── Student.java          # Student entity class
+├── StudentManager.java   # Business logic and CRUD operations
+├── StudentManagementApp.java # Main application and UI
 └── README.md
 ```
 
